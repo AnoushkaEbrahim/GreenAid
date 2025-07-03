@@ -100,10 +100,9 @@ Dataset Collection (Kaggle)
 ✅ Disease: **Late blight**  
 ✅ Bounding Boxes drawn  
 ✅ Curability: **Curable**  
-✅ Treatment Recommendation:  
+✅ Treatment Recommendation based on region and treatment-type:  
 > Use copper-based organic fungicides, remove infected leaves
 
-*(You can include screenshots of sample reports here!)*
 
 ---
 
