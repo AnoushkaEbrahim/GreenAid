@@ -1,0 +1,32 @@
+# Core Python libraries
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+
+# Deep learning
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Computer vision
+opencv-python>=4.5.0
+
+# Bounding box detection
+ultralytics>=8.0.20  # includes YOLOv8
+Roboflow>= For labelling and making bounding boxes 
+
+# Data augmentation
+imgaug>=0.4.0
+
+# Jupyter
+notebook>=6.4.0
+ipykernel>=6.0.0
+
+# Web app (optional if you deploy Streamlit)
+streamlit>=1.10.0
+
+# NLP (if you integrate with LLMs or prompts)
+transformers>=4.20.0
+
+# Others
+scikit-learn>=1.0.0
+seaborn>=0.11.0
