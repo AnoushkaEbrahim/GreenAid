@@ -24,6 +24,7 @@ This project is an **end-to-end plant disease detection and treatment recommenda
 
 The solution is designed in modular stages as shown below:
 
+```
 Dataset Collection (Kaggle)
 │
 └──► Data Cleaning + Augmentation
@@ -40,10 +41,10 @@ Dataset Collection (Kaggle)
 └──► Final Combined Model
 │
 └──► Output: Plant Type, Disease, Bounding Boxes, Treatment
+```
 
 
----
-
+```
 ## 📁 Folder Structure
 
 ├── data/
@@ -63,9 +64,7 @@ Dataset Collection (Kaggle)
 ├── README.md
 └── LICENSE
 
-
----
-
+```
 ## 🚀 How It Works
 
 **Training Phase**
